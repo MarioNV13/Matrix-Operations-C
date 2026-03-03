@@ -21,3 +21,11 @@ A robust, console-based C++ application designed for advanced matrix manipulatio
 ### 3. Transformations & Signal Processing
 * **Transposition:** Flipping a matrix over its diagonal.
 * **2D Convolution:** Applying a filter/kernel matrix over an image matrix.
+
+## # How to Use #
+
+1. **Run the program:** Open the executable in a terminal.
+2. **Choose an option:** Select a number from `0` to `9` from the main menu.
+3. **Input data:** - Enter the number of rows and columns.
+   - Type in the elements of the matrix one by one.
+4. **View result:** The program will display the resulting matrix or value.
