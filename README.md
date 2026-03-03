@@ -1,5 +1,5 @@
 # ###########################################################
-#         MatrixToolkit: Linear Algebra Suite in C++        #
+#         Comprehensive Matrix Operations in C++            #
 # ###########################################################
 
 A robust, console-based C++ application designed for advanced matrix manipulation. This toolkit provides a wide range of features, from basic arithmetic to complex operations like 2D convolution used in image processing.
